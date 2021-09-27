@@ -106,3 +106,4 @@ dist
 # My Ignores
 .env.production
 yarn.lock
+src/generated
